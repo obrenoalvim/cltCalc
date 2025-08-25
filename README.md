@@ -110,9 +110,3 @@ Atenção: Os cálculos são simplificações para fins de simulação e podem n
 ## Contribuindo
 - Abra uma issue descrevendo melhorias ou problemas.
 - Faça um fork, crie um branch e envie um PR com uma descrição clara.
-
-## Licença
-Defina a licença do projeto (por exemplo, MIT). Caso precise, crie um arquivo `LICENSE` na raiz.
-
-## Aviso Legal
-Este sistema é uma ferramenta de cálculo baseada na legislação trabalhista brasileira vigente. Os valores são aproximados e podem variar conforme convenções coletivas e acordos específicos. Para informações precisas, consulte um profissional especializado.
